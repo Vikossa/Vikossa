@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi 👋
+I'm Viktoria, Junior Data Analyst ✨
 
-<!--
-**Vikossa/Vikossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id='header' align='center'>
+  <h1>Viktoria Komarova</h1>
+  <h3>Data Analyst from Voronezh</h3>
+</div>
+- 🌱 I’m currently learning in Yandex.Practicum
+- 📫 How to reach me: vikos.sia@gmail.com, @pikapikavika
 
-Here are some ideas to get you started:
+  <!-- 
+<div id='header' aligh='center'>
+  <h1>Stack</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+* Python
+  + pandas
+  + matplotlib
+  + seaborn
+  + plotly
+  + numpy
+  + sklearn
+* SQL
+  + PostgreSQL
+* Tableau
+* DataLens
 -->
+  
+# Check out my [Portfolio](https://github.com/***/portfolio)
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+  

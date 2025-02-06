@@ -6,7 +6,7 @@
 </div>
 
 - 🌱 I’m currently learning in Yandex.Practicum
-- 📫 How to reach me: vikos.sia@gmail.com, @pikapikavika
+- 📫 How to reach me: vikos.sia@gmail.com
 
 
   <!-- 

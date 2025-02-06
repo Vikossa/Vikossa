@@ -1,16 +1,15 @@
 ## Hi 👋
-I'm Viktoria, Junior Data Analyst ✨
+
 
 <div id='header' align='center'>
-  <h1>Viktoria Komarova</h1>
-  <h3>Data Analyst from Voronezh</h3>
+  <h3>I'm Viktoria, Junior Data Analyst ✨</h3>
 </div>
 - 🌱 I’m currently learning in Yandex.Practicum
 - 📫 How to reach me: vikos.sia@gmail.com, @pikapikavika
 
   <!-- 
 <div id='header' aligh='center'>
-  <h1>Stack</h1>
+  <h2>Stack</h2>
 
 * Python
   + pandas

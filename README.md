@@ -1,11 +1,12 @@
 ## Hi 👋
 
-
 <div id='header' align='center'>
   <h3>I'm Viktoria, Junior Data Analyst ✨</h3>
 </div>
 
 - 🌱 I’m currently learning in Yandex.Practicum
+- 💞️ Loves working with numbers and learning new skills
+- 🌏 B1 English level
 - 📫 How to reach me: vikos.sia@gmail.com
 
 

@@ -4,8 +4,10 @@
 <div id='header' align='center'>
   <h3>I'm Viktoria, Junior Data Analyst ✨</h3>
 </div>
+
 - 🌱 I’m currently learning in Yandex.Practicum
 - 📫 How to reach me: vikos.sia@gmail.com, @pikapikavika
+
 
   <!-- 
 <div id='header' aligh='center'>

@@ -10,24 +10,9 @@
 - 📫 How to reach me: vikos.sia@gmail.com
 
 
-  <!-- 
-<div id='header' aligh='center'>
-  <h1>Stack</h1>
+# Портфолио аналитика данных
 
-* Python
-  + pandas
-  + matplotlib
-  + seaborn
-  + plotly
-  + numpy
-  + sklearn
-* SQL
-  + PostgreSQL
-* Tableau
-* DataLens
--->
-
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+|#|Название проекта|Сфера|Описание проекта|Стек|
+|-----|-----|-----|-----|-----|
+|1|[Исследование данных о российском кинопрокате](https://github.com/Vikossa/Vikossa/blob/main/Исследование%20данных%20о%20российском%20кинопрокате%20(1).ipynb)| Рынок труда | Сравнение и выявление основных различий вакансий| `pandas` `seaborn` `matplotib`|
+|2|[Анализ данных о массовых увольнениях]([https://github.com/SiriusSergio/portfolio/tree/main/pet_projects/World%20layoffs%20analysis](https://github.com/Vikossa/Vikossa/blob/main/Рынок%20заведений%20общественного%20питания%20Москвы.ipynb)| Экономика |Очистка и предобработка данных о массовых увольнениях в различных компаниях, а также выполнение исследовательского анализа данных (EDA) |`PostgreSQL`|
